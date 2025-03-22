@@ -8,7 +8,7 @@ import os
 from typing import List, Dict, Any, Optional
 import logging
 from urllib.parse import urlparse
-from google_search_results import GoogleSearch
+from serpapi.google_search import GoogleSearch
 
 
 # Configure logging

@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 import os
 import json
-from fpdf import FPDF
+from fpdf2 import FPDF
 import markdown
 from docx import Document
 import io

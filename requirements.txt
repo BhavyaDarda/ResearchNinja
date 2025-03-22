@@ -3,3 +3,4 @@ markdown
 python-docx
 plotly
 beautifulsoup4
+trafilatura

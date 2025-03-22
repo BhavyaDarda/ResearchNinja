@@ -2,3 +2,4 @@ fpdf
 markdown
 python-docx
 plotly
+beautifulsoup4

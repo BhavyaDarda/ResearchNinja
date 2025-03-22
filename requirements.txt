@@ -4,3 +4,4 @@ python-docx
 plotly
 beautifulsoup4
 trafilatura
+google-search-results

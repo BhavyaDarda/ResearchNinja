@@ -1,3 +1,4 @@
 fpdf
 markdown
 python-docx
+plotly
